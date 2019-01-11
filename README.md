@@ -10,3 +10,6 @@ Après :
 * un café,
 
 ** nous voici de nouveau au travail **
+[//]: # (Finalement,Toute cette histoire n'a aucun sens. Néanmoins, cet exercice nous apprends beaucoup)
+# Liste non-exausthive de nos problèmes :
+1. problème de push sur une mauvaise branche;
