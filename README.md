@@ -13,3 +13,6 @@ Après :
 [//]: # (Finalement,Toute cette histoire n'a aucun sens. Néanmoins, cet exercice nous apprends beaucoup)
 # Liste non-exausthive de nos problèmes :
 1. problème de push sur une mauvaise branche;
+2. problèmes de plomberie;
+3. problèmes de code en markdown;
+4. trouver une danse pour accompagner "github standup" ;-)
