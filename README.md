@@ -16,3 +16,7 @@ Après :
 2. problèmes de plomberie;
 3. problèmes de code en markdown;
 4. trouver une danse pour accompagner "github standup" ;-)
+Voilà on commence à se rapprocher à la pause de midi
+il en a dejà parmis le group qui grignottent des croissants
+Les tasses de café sont mises de côté et les papilles gustatives se preparent à profiter d'aromes salés
+
