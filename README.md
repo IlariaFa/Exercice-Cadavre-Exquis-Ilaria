@@ -4,3 +4,9 @@
 Le premier push c'est mal passé,
 Nous forçant à _décomité_
 Pour y arriver on a casser *l'clavier*
+
+Après :
+* réparation du clavier et
+* un café,
+
+** nous voici de nouveau au travail **
